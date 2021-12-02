@@ -9,3 +9,5 @@
 **4 - portTICK_PERIOD_MS vs portTICK_RATE_MS:** old and new function timer.
 
 **5 - vTaskDelay:** function vTaskDelay.
+
+**6 - vTaskDelay:** function vTaskDelay in mSec.
