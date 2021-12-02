@@ -7,3 +7,5 @@
 **3 - Timer_esp_timer_get_time:** displays time by function esp_timer_get_time().
 
 **4 - portTICK_PERIOD_MS vs portTICK_RATE_MS:** old and new function timer.
+
+**5 - vTaskDelay:** function vTaskDelay.
